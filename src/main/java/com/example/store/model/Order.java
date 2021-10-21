@@ -1,4 +1,4 @@
-package com.example.store.Model;
+package com.example.store.model;
 
 import javax.persistence.*;
 import java.sql.Timestamp;
