@@ -1,4 +1,4 @@
-package com.example.store.model;
+package com.example.store.domain;
 
 import javax.persistence.*;
 
